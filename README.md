@@ -2,7 +2,6 @@
 
 ### 📚 Sistemas de Informação | FIAP
 
-- Curiosa por natureza e sempre em busca de novos aprendizados.
 - Possuo conhecimento no desenvolvimento **Front-end** com a linguagem **JavaScript**, a linguagem de marcação **HTML** e a linguagem de estilização **CSS**.
 Além disso, tenho experiência em Java, Banco de Dados e continuo expandindo meus conhecimentos na área de tecnologia.
 
