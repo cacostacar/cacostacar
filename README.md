@@ -2,8 +2,7 @@
 
 ### 📚 Sistemas de Informação | FIAP
 
-- Possuo conhecimento no desenvolvimento **Front-end** com a linguagem **JavaScript**, a linguagem de marcação **HTML** e a linguagem de estilização **CSS**.
-Além disso, tenho experiência em Java, Banco de Dados e continuo expandindo meus conhecimentos na área de tecnologia.
+Possuo conhecimento no desenvolvimento Front-end com a linguagem JavaScript, a linguagem de marcação HTML, a linguagem de estilização CSS, além do uso do framework Bootstrap para criação de interfaces responsivas.
 
 ##
 ### 💡 Linguagens de Programação, Estilização e Marcação:
@@ -13,6 +12,7 @@ Além disso, tenho experiência em Java, Banco de Dados e continuo expandindo me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
 </p>
 
 ##
