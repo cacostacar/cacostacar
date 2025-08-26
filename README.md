@@ -2,8 +2,6 @@
 
 ### 📚 Sistemas de Informação | FIAP
 
-Possuo conhecimento no desenvolvimento Front-end com a linguagem JavaScript, a linguagem de marcação HTML, a linguagem de estilização CSS, além do uso do framework Bootstrap para criação de interfaces responsivas. Também estou me aprofundando em Python para desenvolvimento e análise de dados, além de possuir conhecimentos em SQL para gerenciamento de banco de dados.
-
 ##
 ### 💡 Linguagens de Programação, Estilização e Marcação:
 
